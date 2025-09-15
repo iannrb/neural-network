@@ -1,8 +1,8 @@
 # Integrantes
-Arthur Vieira Mariano - RM554742
-Guilherme Henrique Maggiorini - RM554745
-Ian Rossato Braga - RM554989
-Luiz Paulo Freitas - RM555497
+- Arthur Vieira Mariano | RM554742
+- Guilherme Henrique Maggiorini | RM554745
+- Ian Rossato Braga | RM554989
+- Luiz Paulo Freitas | RM555497
 
 # Projeto de Comparação de Modelos - Machine Learning
  
